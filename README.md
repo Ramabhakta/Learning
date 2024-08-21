@@ -14,6 +14,7 @@ Client =>
    2. Lock Manager
    3. Recovery Manager
 5. Concurreny Manager : Techincally, Lock manager and Concurreny Manager works togther.
+6. Storage Engine
   
    
    
