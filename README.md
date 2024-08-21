@@ -9,6 +9,11 @@ Client =>
    1. Query Executor
    2. Cache Managment
    3. Utility : Authentication etc.
+4. Manager
+   1. Transaction Manager
+   2. Lock Manager
+   3. Recovery Manager
+5. Concurreny Manager : Techincally, Lock manager and Concurreny Manager works togther.
   
    
    
