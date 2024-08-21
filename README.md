@@ -1,4 +1,8 @@
 # How DB works? Internal Architecture
-Client => Network Layer =>---------------  ------------------------------
-                          Network Layer => Tokeniser + Parser + Optimiser
-                         ----------------  ------------------------------
+Client => 
+1. Network Layer
+2. FrontEnd
+   1. Tokeniser
+   2. Parser
+   3. Optimiser
+      
