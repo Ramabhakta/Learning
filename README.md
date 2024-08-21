@@ -1,5 +1,5 @@
 # How DB works? Internal Architecture #
-## Client Components ##
+## General Components ##
 1. Network Layer
 2. FrontEnd
    1. Tokeniser
