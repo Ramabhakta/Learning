@@ -1,5 +1,5 @@
 # How DB works? Internal Architecture
-Client => 
+##Client Components##
 1. Network Layer
 2. FrontEnd
    1. Tokeniser
@@ -17,6 +17,8 @@ Client =>
 6. Storage Engine
    1. Disk Storage Manager
    2. Buffer Manager
+   3. Index Manager
+7. OS Interaction Layer : Lower level component.
    
    
       
