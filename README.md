@@ -5,4 +5,11 @@ Client =>
    1. Tokeniser
    2. Parser
    3. Optimiser
+3. Query Execution Engine
+   1. Query Executor
+   2. Cache Managment
+   3. Utility : Authentication etc.
+  
+   
+   
       
