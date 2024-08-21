@@ -1,4 +1,4 @@
-# How DB works? Internal Architecture
+# How DB works? Internal Architecture #
 ##Client Components##
 1. Network Layer
 2. FrontEnd
