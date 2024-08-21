@@ -1,5 +1,5 @@
 # How DB works? Internal Architecture #
-##Client Components##
+## Client Components ##
 1. Network Layer
 2. FrontEnd
    1. Tokeniser
@@ -19,6 +19,10 @@
    2. Buffer Manager
    3. Index Manager
 7. OS Interaction Layer : Lower level component.
+8. For Distributed DB we need below three manager
+   1. Shard Manager
+   2. Cluster Manager
+   3. Replication Manager
    
    
       
