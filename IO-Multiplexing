@@ -1,0 +1,2 @@
+#IO-Mutiplexing#
+This is main reason why redis is so fast. It uses singlel thread techique.
