@@ -1,5 +1,5 @@
 # How DB works? Internal Architecture #
-## General Components ##
+## General Components DB ##
 1. Network Layer: Take care communication between client and rest of below compoments
 2. FrontEnd : Convert query so that remaining componets understand the query (Query in English or any command)
    1. Tokeniser
