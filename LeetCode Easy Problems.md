@@ -1,4 +1,6 @@
-```csharp
+# Easy #
+## Problem1 ##
+```cs
 bool ContainsDuplicate(int[] nums)
 {
     HashSet<int> set = new HashSet<int>();
@@ -14,5 +16,5 @@ bool ContainsDuplicate(int[] nums)
 
 Console.WriteLine(ContainsDuplicate(new int[] { 1, 2, 3 }));
 
-}
+```
 
